@@ -1,6 +1,6 @@
 # Olá, eu sou a Giulia Ferreira! 👋
 
-### [Desenvolvedora de Software | Estudante de Análise e Desenvolvimento de Sistemas na Cesar School]
+### Desenvolvedora de Software | Estudante de Análise e Desenvolvimento de Sistemas na Cesar School.
 
 ---
 
@@ -9,8 +9,7 @@
 <p align="left">
   Sou uma desenvolvedora apaixonada por usar a tecnologia para <strong>resolver problemas complexos e simplificar processos</strong>. Atualmente, aprofundo meus conhecimentos em <strong>React e TypeScript</strong> para criar interfaces de usuário incríveis, enquanto no back-end tenho experiência com <strong>Python e Django</strong> em projetos como o de automação fiscal para a SEFAZ-PE.
   <br><br>
- Tenho grande interesse em ecossistemas de tecnologia diversos, incluindo <strong>PHP e SQL</strong>. Busco ativamente minha primeira oportunidade para iniciar a carreira, <strong>colaborar em projetos de impacto e nunca parar de aprender.</strong>
-</p>
+Tenho grande interesse em ecossistemas de tecnologia diversos, incluindo <strong>PHP e SQL.</strong> Busco uma oportunidade para dar o próximo passo em minha carreira, aplicando minhas habilidades em projetos de alto impacto e me mantendo em um <strong>ciclo constante de aprendizado e aplicação</strong> de novas tecnologias.
 
 ---
 
@@ -44,13 +43,13 @@
   <tr>
     <td>
       <a href="https://github.com/GustavoLino728/COMPET-SEFAZ.git">
-        <img src="[LINK PARA UMA IMAGEM OU GIF DO SEU PROJETO]" width="300px" alt="Nome do Projeto 1"/>
+        <img src="images/LOGO.png" width="300px" alt="FiscoLab"/>
       </a>
     </td>
     <td>
       <h3>FiscoLab</h3>
       <p>Este projeto descomplica o universo tributário de Pernambuco, atuando como uma plataforma educacional centralizada sobre os benefícios fiscais de ICMS. O MVP resolve a dor de empresas que perdem oportunidades por falta de conhecimento, traduzindo a complexa legislação tributária em um conteúdo acessível e direcionado. Essencialmente, transformamos incerteza e pesquisa manual em conhecimento claro e estratégico, capacitando as empresas a entenderem melhor seus direitos e deveres fiscais.</p>
-      <strong>Tecnologias:</strong> Python, Django, React, TypeScript, CSS Modules
+      <strong>Tecnologias:</strong> Python, Django, React, TypeScript, CSS Modules.
       <br><br>
       <a href="https://github.com/GustavoLino728/COMPET-SEFAZ.git">
         <img src="https://img.shields.io/badge/C%C3%B3digo-1D1D1D?style=for-the-badge&logo=github&logoColor=white" alt="Código">
@@ -58,27 +57,6 @@
       <a href="[LINK PARA O SITE/DEPLOY DO PROJETO 1]">
         <img src="https://img.shields.io/badge/Ver%20Deploy-34A853?style=for-the-badge" alt="Ver Deploy">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 2]">
-        <img src="[LINK PARA UMA IMAGEM OU GIF DO SEU PROJETO]" width="300px" alt="Nome do Projeto 2"/>
-      </a>
-    </td>
-    <td>
-      <h3>[Nome do Projeto 2]</h3>
-      <p>[Breve descrição do projeto 2.]</p>
-      <strong>Tecnologias:</strong> [Ex: Python, Django, HTML, CSS]
-      <br><br>
-      <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 2]">
-        <img src="https://img.shields.io/badge/C%C3%B3digo-1D1D1D?style=for-the-badge&logo=github&logoColor=white" alt="Código">
-      </a>
-      <a href="[LINK PARA O SITE/DEPLOY DO PROJETO 2]">
-        <img src="https://img.shields.io/badge/Ver%20Deploy-34A853?style=for-the-badge" alt="Ver Deploy">
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
