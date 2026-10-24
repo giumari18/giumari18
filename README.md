@@ -90,10 +90,12 @@ Plataforma de saúde voltada ao público LGBTQIAP+. Fiz todo o front-end da apli
 
 [![Código](https://img.shields.io/badge/Ver_código-1e2327?style=flat-square&logo=github)](https://github.com/netokemon/projeto-fundamentos-de-software)
 
-### 📚 Projeto WING · Iniciação Científica (CESAR)
-Aplicação de apoio à alfabetização de pessoas neurodivergentes, desenvolvida em ambiente de pesquisa aplicada, com interfaces pensadas para usuários com necessidades específicas.
+### <img src="https://avatars.githubusercontent.com/u/204428954?s=64&v=4" height="26" align="top" alt="Logo WING" /> Projeto WING · Iniciação Científica (CESAR)
+App mobile gamificado de educação inclusiva, voltado para a alfabetização de pessoas neurodivergentes. Desenvolvido em grupo de pesquisa aplicada, com interfaces pensadas para usuários com necessidades específicas.
 
-`Front-end` `Acessibilidade` `Pesquisa aplicada`
+`React Native` `Java` `Android` `iOS` `Acessibilidade` `Gamificação`
+
+[![Organização](https://img.shields.io/badge/Ver_organização-1e2327?style=flat-square&logo=github)](https://github.com/Wing-Games)
 
 ### 🤖 Residência Tecnológica do Porto Digital
 Soluções de ponta a ponta para parceiros como Porto Digital, Capgemini e Avanade, da prototipação no Figma ao deploy e pitch, incluindo a criação de agentes de IA para automação de processos.
@@ -113,11 +115,27 @@ Além do desenvolvimento, aplico dados no dia a dia corporativo:
 
 ---
 
-## 📈 Estatísticas
+## 📈 Minha atividade no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=giumari18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giumari18&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top linguagens" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giumari18&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&locale=pt-br&theme=tokyonight&title_color=F5A623&icon_color=F5A623" alt="Estatísticas" />
+  <img height="170" src="https://streak-stats.demolab.com?user=giumari18&hide_border=true&locale=pt_BR&theme=tokyonight&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giumari18&layout=donut&langs_count=6&hide_border=true&locale=pt-br&theme=tokyonight&title_color=F5A623" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=giumari18&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=giumari18&theme=tokyo-night&hide_border=true&area=true&color=F5A623&line=F5A623&point=FFFFFF" alt="Gráfico de contribuições" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giumari18/giumari18/output/snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/giumari18/giumari18/output/snake.svg" alt="Cobrinha comendo as contribuições" />
+  </picture>
 </p>
 
 ---
