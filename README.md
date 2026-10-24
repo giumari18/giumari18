@@ -88,8 +88,7 @@ Plataforma de saúde voltada ao público LGBTQIAP+. Fiz todo o front-end da apli
 
 `Angular` `TypeScript` `Scrum`
 
-<!-- Coloque aqui o link do repositório do TransCare:
-[![Código](https://img.shields.io/badge/Ver_código-1e2327?style=flat-square&logo=github) https://github.com/netokemon/projeto-fundamentos-de-software
+[![Código](https://img.shields.io/badge/Ver_código-1e2327?style=flat-square&logo=github)](https://github.com/netokemon/projeto-fundamentos-de-software)
 
 ### 📚 Projeto WING · Iniciação Científica (CESAR)
 Aplicação de apoio à alfabetização de pessoas neurodivergentes, desenvolvida em ambiente de pesquisa aplicada, com interfaces pensadas para usuários com necessidades específicas.
