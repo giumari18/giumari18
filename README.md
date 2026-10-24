@@ -18,8 +18,9 @@
 Sou desenvolvedora e analista de dados em formação, com um pé no código e outro no negócio. Gosto de pegar processos manuais e confusos e transformá-los em sistemas, automações e dashboards que fazem sentido para quem usa.
 
 - 🥤 **Estagiária de Key Accounts na Solar Coca-Cola** (Programa Decola): SQL em ambiente Lakehouse, dashboards em Power BI e automações com Power Platform
-- 🔬 **Bolsista de Iniciação Científica no Projeto WING (CESAR)**: front-end de uma aplicação de alfabetização para pessoas neurodivergentes
+- 🔬 **Bolsista de Iniciação Científica no Projeto WING (CESAR)**: app gamificado de educação inclusiva
 - 🏙️ **Residência Tecnológica do Porto Digital**: soluções full stack com Java/Spring Boot e Angular, e agentes de IA (BMAD) em parceria com a Avanade
+- 🤖 **IA no dia a dia:** integro LLMs, crio agentes e servidores MCP e uso Claude Code, Gemini, ChatGPT e Copilot no desenvolvimento
 - ☁️ **Estudando agora:** cloud com **AWS**, **Google Cloud** e **Red Hat**
 - 🏆 2º lugar na **TECH Night (CESAR School)** com o jogo *Lógica à La Carte*
 - 🌎 Português nativo · Inglês intermediário
@@ -32,9 +33,10 @@ Sou desenvolvedora e analista de dados em formação, com um pé no código e ou
 
 <img src="https://skillicons.dev/icons?i=java,py,ts,js,c,html,css" alt="Linguagens" />
 
-**Front-end**
+**Front-end & Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite,figma" alt="Front-end" />
+&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 
 **Back-end & APIs**
 
@@ -50,15 +52,20 @@ Sou desenvolvedora e analista de dados em formação, com um pé no código e ou
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
 <img src="https://img.shields.io/badge/Lakehouse-0078D4?style=for-the-badge" alt="Lakehouse" />
 
-**Automação & IA**
+**IA & Automação**
 
-<img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge" alt="Power Platform" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/MCP-1e2327?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/Agentes_de_IA_(BMAD)-6E40C9?style=for-the-badge" alt="Agentes de IA" />
+<img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge" alt="Power Platform" />
 <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge" alt="Excel" />
 
 **Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Ferramentas" />
 
 **☁️ Aprendendo agora**
 
@@ -70,35 +77,35 @@ Sou desenvolvedora e analista de dados em formação, com um pé no código e ou
 ## 🚀 Projetos em destaque
 
 ### 🧾 FiscoLab · Compet Superior (FACEPE / SEFAZ-PE)
-Plataforma educacional que traduz a legislação de benefícios fiscais de ICMS de Pernambuco em conteúdo acessível, para que empresas deixem de perder oportunidades por falta de informação. Liderei o desenvolvimento das interfaces do MVP e a integração com as APIs do back-end, participando da definição dos contratos de dados.
+Muitas empresas de Pernambuco perdem benefícios fiscais de ICMS simplesmente por não entenderem a legislação. O FiscoLab é uma plataforma educacional que traduz essas regras em conteúdo claro e direcionado. Liderei o desenvolvimento das interfaces do MVP e a integração com as APIs em Django, participando da definição dos contratos de dados entre front e back. **MVP desenvolvido e entregue à SEFAZ-PE** dentro do programa Compet Superior.
 
 `React` `TypeScript` `Tailwind CSS` `Vite` `Python` `Django` `APIs REST`
 
 [![Código](https://img.shields.io/badge/Ver_código-1e2327?style=flat-square&logo=github)](https://github.com/giumari18/fiscolab4)
 
+### <img src="https://avatars.githubusercontent.com/u/204428954?s=64&v=4" height="26" align="top" alt="Logo WING" /> Projeto WING · Iniciação Científica (CESAR)
+App mobile gamificado de educação inclusiva, voltado para a alfabetização de pessoas neurodivergentes. Desenvolvido em grupo de pesquisa aplicada, com interfaces pensadas para usuários com necessidades específicas de aprendizagem. **O app já está em fase de testes em escolas, com alunos reais.**
+
+`React Native` `Java` `Android` `iOS` `Acessibilidade` `Gamificação`
+
+[![Organização](https://img.shields.io/badge/Ver_organização-1e2327?style=flat-square&logo=github)](https://github.com/Wing-Games)
+
 ### 🧠 Lógica à La Carte · 🏆 2º lugar na TECH Night (CESAR School)
-Jogo educacional em linha de comando para ensinar Lógica Proposicional. Implementei os algoritmos de validação de premissas lógicas e a estrutura de dados com Structs, com foco em modularização e eficiência.
+Jogo educacional em linha de comando que ensina Lógica Proposicional de forma interativa. Implementei os algoritmos que validam as premissas lógicas e estruturei os dados com Structs, com foco em código modular e eficiente.
 
 `C` `Structs` `CLI`
 
 [![Código](https://img.shields.io/badge/Ver_código-1e2327?style=flat-square&logo=github)](https://github.com/giumari18/projeto-de-pif)
 
 ### 🏳️‍⚧️ TransCare
-Plataforma de saúde voltada ao público LGBTQIAP+. Fiz todo o front-end da aplicação e atuei também como Product Owner, gerenciando backlog e entregas com Scrum.
+Plataforma de saúde voltada ao público LGBTQIAP+, criada para facilitar o acesso a informação e cuidado. Fiz todo o front-end da aplicação e atuei também como Product Owner, gerenciando backlog e entregas com Scrum.
 
 `Angular` `TypeScript` `Scrum`
 
 [![Código](https://img.shields.io/badge/Ver_código-1e2327?style=flat-square&logo=github)](https://github.com/netokemon/projeto-fundamentos-de-software)
 
-### <img src="https://avatars.githubusercontent.com/u/204428954?s=64&v=4" height="26" align="top" alt="Logo WING" /> Projeto WING · Iniciação Científica (CESAR)
-App mobile gamificado de educação inclusiva, voltado para a alfabetização de pessoas neurodivergentes. Desenvolvido em grupo de pesquisa aplicada, com interfaces pensadas para usuários com necessidades específicas.
-
-`React Native` `Java` `Android` `iOS` `Acessibilidade` `Gamificação`
-
-[![Organização](https://img.shields.io/badge/Ver_organização-1e2327?style=flat-square&logo=github)](https://github.com/Wing-Games)
-
 ### 🤖 Residência Tecnológica do Porto Digital
-Soluções de ponta a ponta para parceiros como Porto Digital, Capgemini e Avanade, da prototipação no Figma ao deploy e pitch, incluindo a criação de agentes de IA para automação de processos.
+Soluções de ponta a ponta para parceiros como Porto Digital, Capgemini e Avanade, da prototipação no Figma ao deploy e pitch, seguindo a metodologia PBL. Incluem APIs REST com regras de negócio em Spring Boot e agentes de IA para automação de processos.
 
 `Java` `Spring Boot` `Angular` `Figma` `Agentes de IA (BMAD)`
 
@@ -115,20 +122,30 @@ Além do desenvolvimento, aplico dados no dia a dia corporativo:
 
 ---
 
+## 🎓 Certificações & eventos
+
+- 🐳 DevOps: Introdução ao Docker
+- 🤖 GitHub Copilot Challenge
+- 💡 HackLabs 25
+- 🤝 Programa de Mentoria em Pares · The SWITAB Project
+- 🏫 15º Encontro da Comunidade de Graduação da CESAR School
+
+---
+
 ## 📈 Minha atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giumari18&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&locale=pt-br&theme=tokyonight&title_color=F5A623&icon_color=F5A623" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giumari18&show_icons=true&hide_border=true&rank_icon=github&locale=pt-br&theme=tokyonight&title_color=F5A623&icon_color=F5A623" alt="Estatísticas" />
   <img height="170" src="https://streak-stats.demolab.com?user=giumari18&hide_border=true&locale=pt_BR&theme=tokyonight&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giumari18&layout=donut&langs_count=6&hide_border=true&locale=pt-br&theme=tokyonight&title_color=F5A623" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giumari18&layout=donut&langs_count=6&hide=makefile&hide_border=true&locale=pt-br&theme=tokyonight&title_color=F5A623" alt="Linguagens mais usadas" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=giumari18&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=giumari18&theme=tokyo-night&hide_border=true&area=true&color=F5A623&line=F5A623&point=FFFFFF" alt="Gráfico de contribuições" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giumari18&theme=tokyonight" alt="Contribuições ao longo do tempo" />
 </p>
 
 <p align="center">
@@ -141,5 +158,5 @@ Além do desenvolvimento, aplico dados no dia a dia corporativo:
 ---
 
 <p align="center">
-  💬 Aberta a oportunidades em <b>desenvolvimento</b> e <b>dados</b>. Bora conversar?
+  💬 Aberta a oportunidades em <b>desenvolvimento</b>, <b>dados</b> e <b>IA</b>. Bora conversar?
 </p>
